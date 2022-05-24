@@ -1,0 +1,28 @@
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "GitHub Light Default",
+    "breadcrumbs.enabled": false,
+    "editor.codeLens": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.minimap.enabled": false,
+    "editor.quickSuggestionsDelay": 0,
+    "editor.parameterHints.enabled": true,
+    "explorer.openEditors.visible": 0,
+    "workbench.activityBar.visible": false,
+    "editor.emptySelectionClipboard": false,
+    "workbench.startupEditor": "none",
+    "workbench.statusBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "workbench.panel.defaultLocation": "right",
+    "editor.renderWhitespace": "none",
+    "files.exclude": {
+        "**/venv": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    }
+}
